@@ -1,27 +1,31 @@
 audit_header: false
-title: "-- MARKET --'s Best Real Estate Training"
-description: -- CLIENT NAME --, a top Real Estate Agent in -- MARKET --, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
+title: "Georgia's Best Real Estate Training"
+description: -- CLIENT NAME --, a top Real Estate Agent in -- MARKET --, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: false
 custom_links:
   - title:
     url:
 
 client:
-  name:
+  name: Jim Casbarro
   title:
   license_number:
   about_markdown: |
+    Hi, I’m Jim Casbarro. I am the CEO and founder of The GAFinestHomes Group, LLC with Keller Williams Realty. Ever since my first lemonade stand as a little kid I've had the entrepreneur bug. As I got older I knew I wanted to help people, and real estate was always interesting to me - it's one of the foundational needs of being a human. Being raised in an environment where I grew up in a loving home, coupled with the awesome wealth-building power of real estate, I couldn't help but learn as much as I could about the real estate industry.
 
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+    During my college years I discovered that real estate really was my passion and my calling. After graduating with a Bachelors in marketing, I took off to create my own investing and residential real estate business. After 6 amazing years in Georgia, the GAFinestHomes Group is that real estate business I envisioned when I was younger. Now I'm able to put all my knowledge and experience, along with the amazing people on our team, to work in the real estate realm for our clients.
+
+    I focus on helping sellers market their home for maximum returns in the time frame they want, finding buyers the best home that matches their wishes, and maximizing our investors returns. Real Estate is my passion and calling and I would be honored to have the opportunity to share my knowledge and experience with you by learning your own real estate goals. Whether it's selling fast, selling for top dollar to make another move, looking to build wealth through investing, or practically anything else real-estate related, I'm eager to learn about what your real estate-related goals are to help make them a reality!
+  market: Georgia
+  brand: GAFinestHomes Group, LLC
+  brokerage: Village Realty
+  address: 2651 Dallas Hwy, Marietta GA 30064
+  phone: 678-909-1783
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Jim@GAFinestHomes.com
+  url: GAFinestHomes.com
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
@@ -51,11 +55,10 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/GAFinestHomesGroup/
+  linkedin_url: https://www.linkedin.com/in/jimcasbarro/
+  youtube_url: https://www.youtube.com/channel/UCt4spNH7Onco8pCA9IP3E9A?view_as=subscriber
+  twitter_url: https://twitter.com/GAFinestHomes
   instagram_url:
   pinterest_url:
   zillow_url:
@@ -81,8 +84,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#3A9BC9'
+  theme_color: '#143157'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
